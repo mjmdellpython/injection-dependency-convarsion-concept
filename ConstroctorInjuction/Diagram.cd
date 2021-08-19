@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Injuction interface as modifier to low level classes&#xD;&#xA;&#xD;&#xA;by useing constractor injection">
+    <Position X="6.258" Y="2.133" Height="1.208" Width="1.7" />
+  </Comment>
+  <Class Name="ConstroctorInjuction.LowLevel">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LevelLow.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.1" />
+  </Class>
+  <Class Name="ConstroctorInjuction.HightLevel">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQIAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HightLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstroctorInjuction.LowLevel_1">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LevelLow.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.158" />
+  </Class>
+  <Class Name="ConstroctorInjuction.Program">
+    <Position X="1.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ConstroctorInjuction.IInjection">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IInjection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

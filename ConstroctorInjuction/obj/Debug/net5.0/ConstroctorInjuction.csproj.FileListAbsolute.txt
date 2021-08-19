@@ -1,0 +1,16 @@
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\bin\Debug\net5.0\ConstroctorInjuction.exe
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\bin\Debug\net5.0\ConstroctorInjuction.deps.json
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\bin\Debug\net5.0\ConstroctorInjuction.runtimeconfig.json
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\bin\Debug\net5.0\ConstroctorInjuction.runtimeconfig.dev.json
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\bin\Debug\net5.0\ConstroctorInjuction.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\bin\Debug\net5.0\ref\ConstroctorInjuction.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\bin\Debug\net5.0\ConstroctorInjuction.pdb
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\obj\Debug\net5.0\ConstroctorInjuction.csproj.AssemblyReference.cache
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\obj\Debug\net5.0\ConstroctorInjuction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\obj\Debug\net5.0\ConstroctorInjuction.AssemblyInfoInputs.cache
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\obj\Debug\net5.0\ConstroctorInjuction.AssemblyInfo.cs
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\obj\Debug\net5.0\ConstroctorInjuction.csproj.CoreCompileInputs.cache
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\obj\Debug\net5.0\ConstroctorInjuction.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\obj\Debug\net5.0\ref\ConstroctorInjuction.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\obj\Debug\net5.0\ConstroctorInjuction.pdb
+C:\Users\mjmde\Desktop\vs\solidProjects\Injuction\ConstroctorInjuction\ConstroctorInjuction\obj\Debug\net5.0\ConstroctorInjuction.genruntimeconfig.cache
